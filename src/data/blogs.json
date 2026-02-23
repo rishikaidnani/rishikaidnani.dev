@@ -1,0 +1,29 @@
+{
+  "blogs": [
+    {
+      "title": "ETL Development Life-Cycle with Dataflow",
+      "url": "https://netflixtechblog.medium.com/etl-development-life-cycle-with-dataflow-9c70c64aba7b",
+      "overview": "How Netflix's Dataflow platform lets data engineers safely develop, test, and ship ETL pipelines — with a structured CI/CD approach that keeps things from breaking in production."
+    },
+    {
+      "title": "Are All Netflix Application Crashes User-Impacting?",
+      "url": "https://netflixtechblog.medium.com/are-all-netflix-application-crashes-user-impacting-9866ecd85811",
+      "overview": "Not all crashes are created equal. How we built a framework to separate the crashes that actually disrupt viewing from the ones that don't — and improved our metrics by 25%."
+    },
+    {
+      "title": "Improve S3 Write Performance with Magic Committer in Spark3",
+      "url": "https://medium.com/towards-data-engineering/improve-s3-write-performance-with-magic-committer-in-spark3-d509e49f9710",
+      "overview": "A deep dive into how the magic committer in Spark 3 skips the slow temporary file shuffle and writes directly to S3 — and how to set it up."
+    },
+    {
+      "title": "Complex Types in Spark — Arrays, Maps & Structs",
+      "url": "https://medium.com/@rishikaidnani/complex-types-in-spark-arrays-maps-structs-b9410678c527",
+      "overview": "Breaking down Spark's three complex data types — when to use each and how they handle nested, semi-structured data in real pipelines."
+    },
+    {
+      "title": "Late-Arriving Data: Challenges and Traditional Solutions",
+      "url": "https://medium.com/art-of-data-engineering/late-arriving-data-challenges-and-traditional-solutions-1e5522e06878",
+      "overview": "What happens when data shows up late to the party? A look at traditional workarounds and newer approaches like CDC and Apache Hudi."
+    }
+  ]
+}

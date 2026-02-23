@@ -1,0 +1,46 @@
+RISHIKA IDNANI PORTFOLIO - TODO LIST
+
+SETUP:
+✓ Initialize Vite + React project
+✓ Install dependencies (React 19, Tailwind CSS 4, React Router, React Icons)
+✓ Configure Tailwind with Netflix theme
+✓ Set up CSS variables for black/red theme
+✓ Configure Vite build settings
+
+COMPONENTS:
+☐ Create Header with smooth scroll navigation
+☐ Create Hero/About Me section (with 3-line placeholder)
+☐ Create ExperienceCard component
+☐ Create WorkExperience section with TODO placeholders
+☐ Create BlogCard component
+☐ Create BlogGrid (2x2 layout)
+☐ Create Contact section with social links
+☐ Create Footer
+
+DATA:
+☐ Create experience.json with placeholder structure for LinkedIn data
+☐ Create blogs.json with 4 blog summaries
+☐ Add blog URLs and summaries from Medium articles
+
+STYLING:
+☐ Implement Netflix black/red theme
+☐ Add hover animations (scale, glow, transitions)
+☐ Add pill badges for tech stacks
+☐ Ensure mobile responsiveness
+☐ Test across different screen sizes
+
+MANUAL DATA ENTRY REQUIRED:
+☐ Fill in "About Me" 3-line description
+☐ Update experience.json with actual LinkedIn work experience data:
+   - Position titles
+   - Company names
+   - Employment dates
+   - Tech stacks from LinkedIn skills
+   - Impact/achievements for each role
+☐ Verify blog summaries are accurate
+☐ Add any additional styling preferences
+
+DEPLOYMENT:
+☐ Test build process (npm run build)
+☐ Verify all links work
+☐ Deploy to Vercel (optional)

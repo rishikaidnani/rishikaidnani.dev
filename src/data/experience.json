@@ -1,0 +1,67 @@
+{
+  "experiences": [
+    {
+      "position": "Senior Data Engineer",
+      "company": "Netflix",
+      "duration": "Feb 2024 - Present",
+      "techStack": [],
+      "impact": [
+        "Build the data foundations that help Netflix understand what hundreds of millions of devices can actually support — whether it's ads, live streaming, or a new UI — so product teams know exactly what they're rolling out to.",
+        "Analyze crash logs and startup performance across TVs, mobile, and Netflix Games to surface what's degrading the viewing experience — turning raw device telemetry into actionable improvements for users.",
+        "Map device capabilities like video resolution and audio support (4K, Dolby) so Netflix can tailor the streaming experience to what each device can actually deliver.",
+        "Work on cross-device ad experiences — like seamlessly stitching a TV session to a phone on the same profile — so ads transition smoothly without breaking the user's flow.",
+        "Surface education and upsell opportunities by identifying users whose devices support higher quality than their plan allows, or whose settings aren't taking full advantage of what they're paying for.",
+        "Help distinguish personal devices from shared ones like hotel or Airbnb TVs — because a hotel lobby TV and your living room TV shouldn't have the same login experience or feature rollout."
+      ]
+    },
+    {
+      "position": "Senior Data Engineer",
+      "company": "Twilio",
+      "duration": "Jul 2019 - Feb 2024",
+      "techStack": [],
+      "impact": [
+        "Mapped out Twilio's entire growth funnel — from first website visit to signup to activation — so the growth team could see exactly where users dropped off and what drove conversions.",
+        "Built the data behind Monthly Active Developer Accounts and uncovered how developers actually used Twilio — as a direct tool vs. an embedded API — helping shape who Twilio was building for.",
+        "Enabled marketing to measure real campaign performance against signups, not just impressions — connecting spend to actual user growth.",
+        "Partnered with finance to build revenue pipelines for monthly, quarterly, and yearly reporting — where accuracy wasn't optional."
+      ]
+    },
+    {
+      "position": "Founding Data Engineer",
+      "company": "HeartFlow, Inc",
+      "duration": "Oct 2017 - Jul 2019",
+      "techStack": [],
+      "impact": [
+        "Partnered with customer service and operations teams to build data pipelines that surfaced key metrics — case resolution times, ticket trends, and escalation patterns — helping the team respond faster to healthcare providers.",
+        "Built pipelines to track operational throughput — analysis turnaround times, case volumes, and provider adoption — giving the ops team visibility into how efficiently cardiovascular analyses were being delivered to cardiologists."
+      ]
+    },
+    {
+      "position": "Big Data Consultant",
+      "company": "Hewlett Packard Enterprise",
+      "duration": "Jul 2016 - Oct 2017",
+      "techStack": [],
+      "impact": [
+        "Helped enterprise customers design and implement end-to-end data systems with HP Vertica at the core — not just setting up a database, but architecting the full data warehouse solution around their needs.",
+        "Built streaming data pipelines using Kafka and Spark to get real-time data flowing into Vertica for analytics — giving customers a modern data infrastructure they could grow with."
+      ]
+    },
+    {
+      "position": "Technology Analyst Intern",
+      "company": "Nomura America Services",
+      "duration": "May 2015 - Aug 2015",
+      "techStack": [],
+      "impact": [
+        "Built a data quality framework for financial investment data — an end-to-end application that scored data assets against prioritized rules, so investment bankers could trust the data driving their decisions.",
+        "Designed custom rule-based exception handling that flagged bad data automatically, turning a manual review process into something repeatable and reliable for enterprise-scale financial workflows."
+      ]
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Accenture",
+      "duration": "Jun 2012 - Jul 2014",
+      "techStack": [],
+      "impact": []
+    }
+  ]
+}
